@@ -1,0 +1,26 @@
+.container {
+    font-family: Verdana, sans-serif;
+    color: white;
+    height:fit-content;
+    display:list-item;
+    align-items: center;
+    justify-content: center;
+    background-image: url("./assets/images/IMG_0629.JPG");
+    background-size: cover;
+    border-style: ridge;
+    border-width: fit-content;
+    max-width: fit-content;
+
+}
+.imgBrdr{
+    border-style: ridge;
+    border-width: fit-content;
+    max-width: fit-content;
+    color:black;
+}
+
+.item {
+    width: fit-content;
+    color:black;
+
+}
